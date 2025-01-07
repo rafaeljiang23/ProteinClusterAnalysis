@@ -2,7 +2,7 @@
 
 This is a workflow to for HS-AFM protein cluster dynamics analysis and in-cluster protein tilt and nearest-neighbor analysis. The codes are developed in BIO-AFM-LAB at Weill Cornell Medicine under the supervision of Professor Simon Scheuring.
 
-Developer: Yining Jiang
+Developer: Yining Jiang, Eunji Shin
 
 Publication: XXXXX
 
