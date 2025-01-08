@@ -30,10 +30,10 @@ Note: These codes are developed to analyze the dynamic morphological changes of 
 2. analysis_radial_profile_core.m
 
 #### Demo data
-1. data_test_1.mat    (This file contains test dataset (1) for a dynamic protein cluster)
-2. data_test_2.mat    (This file contains test dataset (2) for a stable protein cluster) 
-3. data_test_result_1.mat    (This file contains major outputs for test dataset 1)
-4. data_test_result_2.mat    (This file contains major outputs for test dataset 2)
+1. data_test_1.mat ——— This file contains test dataset (1) for a dynamic protein cluster
+2. data_test_2.mat ——— This file contains test dataset (2) for a stable protein cluster 
+3. data_test_result_1.mat ——— This file contains major outputs for test dataset 1
+4. data_test_result_2.mat ——— This file contains major outputs for test dataset 2
 
 #### Instruction
 User should run the main scripts. Operation details are provided within the scripts.
@@ -44,8 +44,8 @@ Note: These codes are developed to analyze the dynamic morphological changes of 
 1. patch_tilt_nn_analysis.m
 
 #### Demo data
-1. data_test.mat    (This file contains test dataset for a cluster of 7 pentamer proteins)
-2. data_test_result.mat    (This file contains major outputs for the test dataset)
+1. data_test.mat ——— This file contains test dataset for a cluster of 7 pentamer proteins
+2. data_test_result.mat ——— This file contains major outputs for the test dataset)
 
 #### Instruction
 User should run the main scripts. Operation details are provided within the scripts.
