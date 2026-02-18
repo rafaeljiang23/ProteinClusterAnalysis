@@ -1,10 +1,10 @@
 # ProteinClusterAnalysis
 
-This is a workflow to for HS-AFM protein cluster dynamics analysis and in-cluster protein tilt and nearest-neighbor analysis. The codes are developed in BIO-AFM-LAB at Weill Cornell Medicine under the supervision of Professor Simon Scheuring.
+This is a workflow for HS-AFM protein cluster dynamics analysis and in-cluster protein tilt and nearest-neighbor analysis. The codes are developed in BIO-AFM-LAB at Weill Cornell Medicine under the supervision of Professor Simon Scheuring.
 
-Developer: Yining Jiang, Eunji Shin
+Developer: Yining Jiang
 
-Publication: XXXXX
+Publication:  Shin, E, Jiang, Y et al. High-speed atomic force microscopy reveals the dynamic interplay of membrane proteins is lipid-modulated. Small Science (2025). https://doi.org/10.1002/smsc.202500258
 
 User should email to the corresponding author of the paper for details about this work: Professor Simon Scheuring (sis2019@med.cornell.edu)
 
